@@ -3,6 +3,8 @@
 A simple and lightweight crate for launching and using a server. 
 Source [code link](https://github.com/Amakesasha/Rust-TcpServer)
 
+# Usage example:
+
 # Usage example: 
  ``` Rust
 extern crate rust_tcp_sever;
