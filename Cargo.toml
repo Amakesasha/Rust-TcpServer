@@ -1,6 +1,6 @@
 [package]
 name = "rust_tcp_sever"
-version = "0.1.5"
+version = "0.1.6"
 
 authors = ["AmakeSasha amakesasha@gmail.com"]
 description = "A simple and lightweight crate for launching and using a server"
@@ -11,7 +11,6 @@ readme = "README.md"
 
 keywords = ["tcp_server", "rust_server", "rust_tcp_server", "web", "tcp"]
 categories = ["web-programming::http-server", "web-programming"]
-
 
 [profile.dev]
 opt-level = "s"
